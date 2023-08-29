@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F42B0CC2-7288-486A-BF25-FE306615B530"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "595285D5-F6E5-42A0-A923-0DEF8330479F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMenuDzng/Views/LimitsProgressView/LimitsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "configureLabelConstraints()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "595285D5-F6E5-42A0-A923-0DEF8330479F - c4124b101f04c645"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMenuDzng.LimitsView.configureLabelConstraints() -&gt; ()"
+                  moduleName = "testMenuDzng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michail/Documents/projects/testMenuDzng/testMenuDzng/Views/LimitsProgressView/LimitsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "595285D5-F6E5-42A0-A923-0DEF8330479F - c4124b101f04c54d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMenuDzng.LimitsView.configureLabelConstraints() -&gt; ()"
+                  moduleName = "testMenuDzng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michail/Documents/projects/testMenuDzng/testMenuDzng/Views/LimitsProgressView/LimitsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35980DD6-553F-483A-A126-782528B57D29"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMenuDzng/Views/LimitsProgressView/LimitsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "configureLabelConstraints()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "35980DD6-553F-483A-A126-782528B57D29 - c4124b101f04c434"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMenuDzng.LimitsView.configureLabelConstraints() -&gt; ()"
+                  moduleName = "testMenuDzng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michail/Documents/projects/testMenuDzng/testMenuDzng/Views/LimitsProgressView/LimitsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "35980DD6-553F-483A-A126-782528B57D29 - c4124b101f04c434"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMenuDzng.LimitsView.configureLabelConstraints() -&gt; ()"
+                  moduleName = "testMenuDzng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michail/Documents/projects/testMenuDzng/testMenuDzng/Views/LimitsProgressView/LimitsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "35980DD6-553F-483A-A126-782528B57D29 - c4124b101f04c46a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMenuDzng.LimitsView.configureLabelConstraints() -&gt; ()"
+                  moduleName = "testMenuDzng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michail/Documents/projects/testMenuDzng/testMenuDzng/Views/LimitsProgressView/LimitsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "820">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "071EFB5B-C96B-436B-9B87-5112FA6E3C57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMenuDzng/Screens/Security/SecurityVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "configureCell(tableView:indexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF142C75-95EE-4733-B386-F7DBD359932C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMenuDzng/Resources/AppStyle/Global/AppAssets.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "AppAssets"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "FF142C75-95EE-4733-B386-F7DBD359932C - 404f886a094c9877"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMenuDzng.AppAssets.rawValue.getter : Swift.String"
+                  moduleName = "testMenuDzng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michail/Documents/projects/testMenuDzng/testMenuDzng/Resources/AppStyle/Global/AppAssets.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "FF142C75-95EE-4733-B386-F7DBD359932C - 2443440ac93d9393"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMenuDzng.AppAssets.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;testMenuDzng.AppAssets&gt;"
+                  moduleName = "testMenuDzng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michail/Documents/projects/testMenuDzng/testMenuDzng/Resources/AppStyle/Global/AppAssets.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
